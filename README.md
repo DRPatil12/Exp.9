@@ -165,7 +165,7 @@ PRN: 25070123146
 
     Stop.
 
-## 6. Addition and Multiplication with a Number (Scalar Operations):
+## 6. Addition and Multiplication with a Number:
 
     Start the program.
 
